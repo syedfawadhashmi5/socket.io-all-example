@@ -1,2 +1,1 @@
-# socket.io-all-example
- socket.io-all-example
+# Source code for Blog articles.
